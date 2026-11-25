@@ -124,6 +124,7 @@ Interface 8088
 
 <img width="945" height="567" alt="image" src="https://github.com/user-attachments/assets/24cbe935-9c76-4c4e-b408-bf79899991eb" />
 
+<img width="945" height="760" alt="image" src="https://github.com/user-attachments/assets/a691314c-0603-4400-b915-3147a73a9c7d" />
 
  
 
