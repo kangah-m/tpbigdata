@@ -159,25 +159,33 @@ Interface 8088
 Résultat de chaque job
 
   
+<img width="945" height="231" alt="image" src="https://github.com/user-attachments/assets/36472794-64f1-4b65-87f8-25658946ca50" />
    
 
+<img width="945" height="432" alt="image" src="https://github.com/user-attachments/assets/1b97f1ed-6a0d-4331-83e8-40b9012f7a20" />
 
 
 
- 
+ <img width="945" height="254" alt="image" src="https://github.com/user-attachments/assets/96db6255-63c9-41a7-9bdd-804dd0bd45e9" />
 
+
+<img width="945" height="135" alt="image" src="https://github.com/user-attachments/assets/e74cbdd7-69d5-4f39-9e63-44c96299e3ad" />
 
 
   
 
- 
+ <img width="945" height="90" alt="image" src="https://github.com/user-attachments/assets/a9f81f9f-210f-4b0d-a4fa-5a713c5d0f0b" />
+
+
+<img width="945" height="234" alt="image" src="https://github.com/user-attachments/assets/106d283d-0add-4559-8b57-37e650a515b4" />
+
+
+<img width="945" height="139" alt="image" src="https://github.com/user-attachments/assets/9ff6a246-b7be-4631-9ff4-13d490739137" />
 
 
 
 
-
-
-
+<img width="945" height="340" alt="image" src="https://github.com/user-attachments/assets/3eea8e01-ea30-478c-a859-2c45e44a421d" />
 
  
 
