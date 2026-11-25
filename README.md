@@ -5,6 +5,7 @@ tpbigdata
             REPONSES AUX QUESTIONS DE SYNTHESE
 
 1-	Définissons un cluster et donnons ses trois avantages
+
 Un cluster est un ensemble de machines indépendantes reliées en réseau et coordonnées comme un système unique. 
 On peut également dire qu’on peut prendre une machine et la séparé en plusieurs machines.
 Ses avantages sont : 
@@ -12,7 +13,8 @@ Ses avantages sont :
 -Calcul parallèle rapide,
 -Haute disponibilité à faible coût.
 2-	 Quelle différence faisons-nous entre scalabilité verticale et horizontale ? Disons laquelle Hadoop exploite.
-             La verticale (Scale-up) permet de renforcer une seule machine (CPU/RAM, plafond           matériel, coût élevé).
+
+             La verticale (Scale-up) permet de renforcer une seule machine (CPU/RAM, plafond matériel, coût élevé).
               L’horizontale (Scale-out) permet d’ajouter des machines standards au cluster.
               Hadoop exploite la scalabilité horizontale.
 3-	 Le rôle du NameNode et sa sensibilité
@@ -114,6 +116,7 @@ Interface 8088
 <img width="945" height="253" alt="image" src="https://github.com/user-attachments/assets/179123a0-694e-4d05-a099-f1e92ffbaec5" />
 
 
+<img width="945" height="618" alt="image" src="https://github.com/user-attachments/assets/48979a19-3e3a-4bec-a65b-fc667c57196e" />
 
 
 
