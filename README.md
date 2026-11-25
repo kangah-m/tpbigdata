@@ -96,7 +96,8 @@ Interface 9870
 
 
 
-<img width="945" height="311" alt="image" src="https://github.com/user-attachments/assets/8aea2a85-2798-4b84-8aff-82b789de8bd6" />
+<img width="945" height="1032" alt="image" src="https://github.com/user-attachments/assets/9ec2df3e-d048-4897-b35d-2435f91a3efa" />
+
 
 
 
@@ -107,8 +108,6 @@ Interface 8088
 
 
 
-
-![Uploading image.png…]()
 
 
 
