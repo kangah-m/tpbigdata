@@ -210,7 +210,7 @@ Localisation Web UI (9870) : Via Utilities > Browse the file system > /user/hado
 Blocs : 1024 Mo ÷ 128 Mo = 8 blocs.
 Espace disque : 8 blocs × 3 copies = 24 blocs physiques, soit 3 Go (3072 Mo) occupé sur le cluster.
 
-             EXERCICE 5 :
+ EXERCICE 5 :
 
 Peut-on utiliser le reducer de moyenne comme combiner ? NON.
 Parce qu’un combiner exige une fonction associative et commutative. Alors que la moyenne des moyennes partielles diffère de la moyenne globale dès que les effectifs diffèrent.
