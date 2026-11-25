@@ -68,7 +68,7 @@ Sortie de jps
  
 
 
-![Uploading image.png…]()
+<img width="945" height="311" alt="image" src="https://github.com/user-attachments/assets/afb1bb6c-6720-49fe-ace1-357304d67b0e" />
 
 
 
@@ -96,6 +96,7 @@ Interface 9870
 
 
 
+![Uploading image.png…]()
 
 
 
