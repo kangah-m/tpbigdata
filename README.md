@@ -108,6 +108,12 @@ Interface 8088
 
 
 
+<img width="724" height="768" alt="image" src="https://github.com/user-attachments/assets/4f1396e5-cdaa-41dc-a31a-c9aefb1f55a2" />
+
+
+
+![Uploading image.png…]()
+
 
 
 
