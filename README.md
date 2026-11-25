@@ -12,11 +12,13 @@ Ses avantages sont :
 -Stockage massif distribué,
 -Calcul parallèle rapide,
 -Haute disponibilité à faible coût.
-2-	 Quelle différence faisons-nous entre scalabilité verticale et horizontale ? Disons laquelle Hadoop exploite.
 
-             La verticale (Scale-up) permet de renforcer une seule machine (CPU/RAM, plafond matériel, coût élevé).
-              L’horizontale (Scale-out) permet d’ajouter des machines standards au cluster.
-              Hadoop exploite la scalabilité horizontale.
+2-	Quelle différence faisons-nous entre scalabilité verticale et horizontale ? Disons laquelle Hadoop exploite.
+
+ La verticale (Scale-up) permet de renforcer une seule machine (CPU/RAM, plafond matériel, coût élevé).
+L’horizontale (Scale-out) permet d’ajouter des machines standards au cluster.
+ Hadoop exploite la scalabilité horizontale.
+ 
 3-	 Le rôle du NameNode et sa sensibilité
 
 -Il gère l’espace noms : Répertoire, Fichiers,
@@ -129,10 +131,14 @@ Interface 8088
  
 
  
+<img width="945" height="346" alt="image" src="https://github.com/user-attachments/assets/e8a64aea-5d7a-4b17-b61e-0dc7184660f5" />
+<img width="945" height="753" alt="image" src="https://github.com/user-attachments/assets/73466e5f-a2f9-4f54-bab1-6a350f5bba35" />
 
 
 
+<img width="945" height="429" alt="image" src="https://github.com/user-attachments/assets/d2b934c7-d017-4531-b9c4-a17292aa83b1" />
 
+<img width="945" height="678" alt="image" src="https://github.com/user-attachments/assets/e9d04fae-f43f-46aa-a3e8-65de6183f0fe" />
 
 
 
