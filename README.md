@@ -78,17 +78,6 @@ Sortie de jps
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Interface 9870
  
 
@@ -112,8 +101,6 @@ Interface 8088
 
 
 
-![Uploading image.png…]()
-
 
 
 
@@ -124,6 +111,9 @@ Interface 8088
            Mappers et Reducers (exercices 2 à 6)
  
  
+<img width="945" height="253" alt="image" src="https://github.com/user-attachments/assets/179123a0-694e-4d05-a099-f1e92ffbaec5" />
+
+
 
 
 
